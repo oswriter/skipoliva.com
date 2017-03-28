@@ -6,7 +6,7 @@ date = "2017-03-26"
 title = "Saturday Down South"
 
 # Project summary to display on homepage.
-summary = "I was a regular contributor on business and legal issues for Saturday Down South, a website that covers college football in the Southeastern Conference.."
+summary = "I was a regular contributor on business and legal issues for Saturday Down South, a website that covers college football in the Southeastern Conference."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "sds.png"
