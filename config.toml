@@ -125,7 +125,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "oswriter2@gmail.com"
+    link = "mailto:oswriter2@gmail.com"
 
   [[params.social]]
     icon = "google-plus-official"
