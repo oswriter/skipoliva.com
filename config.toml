@@ -29,7 +29,7 @@ defaultContentLanguageInSubdir = false
   office_hours = ""
   phone = ""
   skype = ""
-  telegram = ""
+  telegram = "oswriter"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -136,6 +136,11 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/oswriter"
+
+  [[params.social]]
+    icon = "telegram"
+    icon_pack = "fa"
+    link = "https://t.me/oswriter"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
