@@ -1,0 +1,1 @@
+All original content by [S.M. Oliva](https://skipoliva.com) is licensed under a [Creative Commons Attribution 4.0 International License](https://web-beta.archive.org/web/20161008184447/http://creativecommons.org/licenses/by/4.0/).
