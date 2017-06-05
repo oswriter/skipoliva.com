@@ -15,8 +15,8 @@ image_preview = "sl.png"
 tags = ["law"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://www.superlawyers.com/articles/writer/sm-oliva/6f81a3f2035d3031ae59ced967fe5509.html"
-weight = 20
+external_link = "https://goo.gl/rjyX8n"
+weight = 10
 
 # Does the project detail page use math formatting?
 math = false

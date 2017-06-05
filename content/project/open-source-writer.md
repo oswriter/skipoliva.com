@@ -6,7 +6,7 @@ date = "2017-03-26"
 title = "Open Source Writer"
 
 # Project summary to display on homepage.
-summary = "I currently publish a weekly review of software for the Solus Linux operating system."
+summary = "I currently publish a bimonthly review of software for the Solus Linux operating system."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "osw.png"
@@ -16,7 +16,7 @@ tags = ["tech"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://opensourcewriter.com"
-weight = 10
+weight = 20
 
 # Does the project detail page use math formatting?
 math = false
