@@ -46,3 +46,7 @@ As the deposited files only constituted a portion of the total program, the plai
 ## Appeal, State Lawsuit May Follow
 
 Judge Haikala's decision does not necessarily signal the end of this litigation. The plaintiff may appeal the judge's decision to the U.S. <a href="http://www.ca11.uscourts.gov/">11th Circuit Court of Appeals</a> in Atlanta. The plaintiff also raised a number of claims under Alabama state law against his former employer. Judge Haikala declined to exercise jurisdiction over those claims, noting he is free to pursue them in Alabama state court.
+
+### Did You Find This Post Useful?
+
+Would you like content such as this on your own blog or website? [Contact me](https://skipoliva.com/#contact) today to discuss a custom blog ghostwriting package for your law firm or business.

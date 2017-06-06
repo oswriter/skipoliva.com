@@ -15,6 +15,7 @@ weight = 1
     "Personal Injury Law",
     "Probate, Trusts & Estate Planning",
     "Bankruptcy",
+    "Drunk Driving & Drug Crimes",
     "Business Regulation",
     "Linux & Open Source Licensing",
   ]
@@ -29,4 +30,4 @@ weight = 1
 
 # Do You Need Help Writing a Blog?
 
-I have over 16 years experience writing for the web. Currently I ghostwrite content for more than a dozen law blogs, covering subjects from personal injury and bankruptcy to criminal defense and intellectual property. Previously, I spent over a decade working as a paralegal and writing about antitrust law for a nonprofit organization. If you need an affordable, experienced writer to help create or improve your own blog, contact me today.
+I have over 16 years experience writing for the web. Currently I ghostwrite content for more than a dozen law blogs, covering subjects from personal injury and bankruptcy to criminal defense and intellectual property. Previously, I spent over a decade working as a paralegal and writing about antitrust law for a nonprofit organization. If you need an affordable, experienced writer to help create or improve your own blog, [contact me](https://skipoliva.com/#contact) today.

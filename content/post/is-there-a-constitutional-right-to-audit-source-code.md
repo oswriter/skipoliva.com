@@ -56,3 +56,7 @@ Or, as it turns out, the court procedural <i>and </i>the intellectual property p
 At some point in the not-too-distant future, the Supreme Court may have to answer the question, “Does the Confrontation Clause entitle a defendant to audit the source code of any computer program used to produce evidence against him?” But as Justice Scalia would caution if he were still with us, it's not exclusively the judiciary's responsibility to protect the rights of criminal defendants. The use of proprietary software by law enforcement is a decision made by the executive branch of government (with the tacit approval of the legislative branch.) If legislators and officials made a concerted effort to require the disclosure of source code in criminal cases, judicial intervention would not be necessary.
 
 Such a change will not occur spontaneously. Proprietary software vendors like Apple would aggressively lobby against such a move. Legislators, regardless of political party, are also not in the business of supporting policies that make life more difficult for prosecutors and law enforcement. And let's be honest: When a large majority of the general public continue to support proprietary software themselves, there's little incentive for their elected representatives to challenge the <i>status quo</i>.
+
+### Did You Find This Post Useful?
+
+Would you like content such as this on your own blog or website? [Contact me](https://skipoliva.com/#contact) today to discuss a custom blog ghostwriting package for your law firm or business.

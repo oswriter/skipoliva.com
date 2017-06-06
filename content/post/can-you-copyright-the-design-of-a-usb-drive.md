@@ -23,3 +23,6 @@ As the Ninth Circuit <a href="https://scholar.google.com/scholar_case?case=12501
 
 But "the manner in which [the plaintiff] designed the USB drive to fit into the PlumBob object" may constitute an "artistic and non-functional" contribution. This would be a "low" threshold for originality, the Ninth Circuit conceded, but it was still plausible that a jury could find in the plaintiff's favor. However, the plaintiff must also prove that it, rather than EA, had "ultimate control" over the 3-dimensional design. EA maintains that it retained "final decision-making authority," which if true would defeat the plaintiff's claim that it was a "joint author" with a copyright interest in the final design. Ultimately, the Ninth Circuit said it will be up to a jury to decide who is right.
 
+### Did You Find This Post Useful?
+
+Would you like content such as this on your own blog or website? [Contact me](https://skipoliva.com/#contact) today to discuss a custom blog ghostwriting package for your law firm or business.

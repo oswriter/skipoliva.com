@@ -24,9 +24,9 @@ After the verdict, the plaintiff asked the judge to interview one of the jurors.
 
 <blockquote>
   a. I got picked as a juror . . . I hate this s____ I'm so pissed, I even half assed all my answers and I dressed terrible.
-  
+
   b. Being a juror isn't bad, people I'm working with are pretty cool. But I still hate the fact that I have to be here all day.
-  
+
   c. Everyone is so money hungry that they'll do anything for it.
 </blockquote>
 
@@ -78,9 +78,9 @@ In the final case, also from 2014, the <a href="https://scholar.google.com/schol
 
 <blockquote>
   Jury duty 2morrow. I may get 2 hang someone ... can't wait.
-  
+
   Shit just told this case could last 2 weeks. Jury duty sucks!
-  
+
   Your honor I object! This is way too boring, somebody get me outta here.
 </blockquote>
 
@@ -94,9 +94,9 @@ Third Circuit Senior Judge <a href="http://www.fjc.gov/servlet/nGetInfo?jid=1790
 
 <blockquote>
   Technology, of course, will continue to evolve and courts must creatively develop ways to deal with these issues...We must first educate jurors that their extra-curial use of social media and, more generally, the Internet, damages the trial process and that their postings on social media sites could result in a mistrial, inflicting additional costs and burdens on the parties specifically, and the judicial system generally.
-  
+
   [...]
-  
+
   Not only are jurors tweeting, but they have been conducting factual research online, looking up legal definitions, investigating likely prison sentences for a criminal defendant, visiting scenes of crimes via satellite images, blogging about their own experiences and sometimes even reaching out to parties and witnesses through "Facebook friend" requests.
 </blockquote>
 
@@ -110,3 +110,6 @@ While the rules governing jurors and social media will vary from state to state-
     <li>Always follow the trial judge's instructions regarding social media. If you have any doubt as to whether a Twitter or Facebook post is inappropriate, ask the judge first. And frankly, if you have to ask, it's probably inappropriate.</li>
 </ul>
 
+### Did You Find This Post Useful?
+
+Would you like content such as this on your own blog or website? [Contact me](https://skipoliva.com/#contact) today to discuss a custom blog ghostwriting package for your law firm or business.

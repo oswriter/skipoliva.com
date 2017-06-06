@@ -19,10 +19,8 @@ I've been blogging professionally since 2000--before the term "blog" entered the
 
 Every business and blog setup is unique. There is no single, correct approach. I've had some clients who like to update their blogs 2 or 3 times per week, and others who only do so twice a month. The appropriate frequency depends on a number of factors, including the types of services you offer, how much "news" there is about your subject, and your budget for ghostwriting services.
 
-Whatever your needs, I can work with you to develop a custom ghostwriting package.
-
-As far as the actual blog posts go, you will retain full ownership and copyright of all accepted and paid-for work. Feel free to use your own name as author of posts. It won't hurt my feelings, I'm a ghostwriter.
+Whatever your needs, [contact me](https://skipoliva.com/#contact) today and we can work together to develop a custom ghostwriting package for your business. With respect to the actual blog posts, you will retain full ownership and copyright of all accepted and paid-for work.
 
 ## Full-Service Blog Support
 
-Do you need help with more than just writing your blog? Fortunately, I know to setup and manage blogs as well. I know how to run blogs on the [WordPress](https://wordpress.com), [Ghost](https://ghost.org), and [Hugo](https://gohugo.io) platforms.
+Do you need help with more than just writing your blog? Fortunately, I can help you setup and run blogs on the [WordPress](https://wordpress.com), [Ghost](https://ghost.org), and [Hugo](https://gohugo.io) platforms.
