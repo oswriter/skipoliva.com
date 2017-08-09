@@ -12,11 +12,10 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Personal Injury Law",
     "Probate, Trusts & Estate Planning",
+    "Employment Law & Business Regulation",
     "Bankruptcy",
-    "Drunk Driving & Drug Crimes",
-    "Business Regulation",
+    "Car Accidents & Personal Injury",
     "Linux & Open Source Licensing",
   ]
 
