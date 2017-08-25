@@ -27,7 +27,7 @@ defaultContentLanguageInSubdir = false
   email = "smo@skipoliva.com"
   address = ""
   office_hours = ""
-  phone = "(434) 288-0262"
+  phone = ""
   skype = ""
   telegram = "oswriter"
 
@@ -126,11 +126,6 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:smo@skipoliva.com"
-
-  [[params.social]]
-    icon = "google-plus-official"
-    icon_pack = "fa"
-    link = "https://plus.google.com/u/1/114649717339477494492"
 
   [[params.social]]
     icon = "github"
