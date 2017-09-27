@@ -1,7 +1,7 @@
 +++
 date = "2017-08-12"
 title = "5 Questions to Ask About Your Blog"
-categories = ['Sample Posts']
+categories = ['Blog']
 tags = ['blogging']
 draft = "true"
 

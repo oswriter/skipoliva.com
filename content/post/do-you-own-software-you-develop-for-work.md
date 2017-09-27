@@ -1,7 +1,7 @@
 +++
 date = "2016-09-07"
 title = "Do You Own Software You Develop for Work?"
-categories = ["Sample Posts"]
+categories = ["Blog"]
 tags = ["copyright", "employment law"]
 
 +++

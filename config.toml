@@ -29,7 +29,7 @@ defaultContentLanguageInSubdir = false
   office_hours = ""
   phone = ""
   skype = ""
-  telegram = "oswriter"
+  telegram = "smoliva"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -135,7 +135,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "telegram"
     icon_pack = "fa"
-    link = "https://t.me/oswriter"
+    link = "https://t.me/smoliva"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -153,13 +153,13 @@ defaultContentLanguageInSubdir = false
     weight = 2
 
 [[menu.main]]
-    name = "Sample Posts"
-    url = "#posts"
+    name = "My Blog"
+    url = "#my-blog"
     weight = 3
 
 [[menu.main]]
-    name = "Projects"
-    url = "#projects"
+    name = "Past Clients"
+    url = "#past-clients"
     weight = 4
 
 [[menu.main]]

@@ -1,7 +1,7 @@
 +++
 date = "2016-09-13"
 title = "Can You Copyright the Design of a USB Drive?"
-categories = ["Sample Posts"]
+categories = ["Blog"]
 tags = ["copyright"]
 
 +++

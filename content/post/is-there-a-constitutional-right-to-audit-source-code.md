@@ -1,7 +1,7 @@
 +++
 date = "2016-03-02"
 title = "Is There a Constitutional Right to Audit Source Code?"
-categories = ["Sample Posts"]
+categories = ["Blog"]
 tags = ["criminal defense", "dui"]
 
 +++
