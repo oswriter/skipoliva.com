@@ -7,11 +7,9 @@ tags = ["criminal defense", "dui"]
 +++
 
 
-Many people in the libertarian and tech communities have sounded the red alert klaxon over the FBI's recent demand for Apple's assistance in rewriting its proprietary iOS software to disable certain security features. In some corners, Apple is portrayed as a champion of individual liberty against the growing police state. For example a former editor of mine, <a href="http://reason.com/archives/2016/03/01/dont-trust-the-fbis-ability-to-keep-an-i">J.D. Tuccille</a>, wrote yesterday at Reason.com:
-<blockquote>Apple's battle isn't against a one-off court order to crack an encrypted phone; it's the latest skirmish in the government's ongoing war against privacy protections—as well as an act of resistance against federal efforts to conscript the private sector into its crusade.</blockquote>
-But suppose we change the parameters of the legal scenario. Instead of the FBI demanding a backdoor to access an accused criminal's iPhone, let's say a defendant charged with murder has reason to believe that the victim's locked device might contain exculpatory evidence. Would it then be reasonable for the judge to order Apple's assistance in order to ensure the defendant received a fair trial?
+Many people in the tech community have sounded the red alert klaxon over the FBI's recent demand for Apple's assistance in rewriting its proprietary iOS software to disable certain security features. In some corners, Apple is portrayed as a champion of individual liberty against the growing police state. But suppose we change the parameters of the legal scenario. Instead of the FBI demanding a backdoor to access an accused criminal's iPhone, let's say a defendant charged with murder has reason to believe that the victim's locked device might contain exculpatory evidence. Would it then be reasonable for the judge to order Apple's assistance in order to ensure the defendant received a fair trial?
 
-I don't know how libertarians like Tuccille would answer that question. But I'm fairly confidant Apple's position would not change. At the end of the day, Apple's prime directive is protecting its proprietary software from outside interference. If that happens to coincide with taking a stance in favor of individual rights, then that's great for marketing, but it's not essential to protecting shareholder interests.
+I'm fairly confidant Apple's position would not change. At the end of the day, Apple's prime directive is protecting its proprietary software from outside interference. If that happens to coincide with taking a stance in favor of individual rights, then that's great for marketing, but it's not essential to protecting shareholder interests.
 
 ## Justice Scalia and the Confrontation Clause
 
