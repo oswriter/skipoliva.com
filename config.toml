@@ -1,6 +1,6 @@
 baseurl = "https://skipoliva.com"
 title = "S.M. Oliva"
-copyright = "&copy; 2017 S.M. Oliva"
+copyright = "&copy; 2016-2017 S.M. Oliva"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
