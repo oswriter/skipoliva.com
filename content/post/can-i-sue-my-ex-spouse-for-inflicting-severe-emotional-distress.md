@@ -2,17 +2,7 @@
 title = "Can I Sue My Ex-Spouse for Inflicting Severe Emotional Distress?"
 date = 2018-01-01T13:59:37-05:00
 draft = false
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ['divorce','personal injury']
-categories = ['blog']
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
 
 +++
 

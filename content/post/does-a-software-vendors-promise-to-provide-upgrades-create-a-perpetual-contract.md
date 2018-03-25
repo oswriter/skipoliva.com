@@ -2,17 +2,7 @@
 title = "Does a Software Vendor's Promise to Provide Upgrades Create a 'Perpetual' Contract?"
 date = 2017-10-01
 draft = false
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ['contract law', 'false advertising']
-categories = ['Blog']
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
 
 +++
 

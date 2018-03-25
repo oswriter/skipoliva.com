@@ -1,7 +1,6 @@
 +++
 date = "2017-09-19"
 title = "Did a Dutch Graduate Student Steal Michigan Software Company's Code?"
-categories = ["Blog"]
 tags = ["copyright"]
 +++
 

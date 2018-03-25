@@ -1,7 +1,6 @@
 +++
 date = "2016-10-12"
 title = "Never Mix Twitter With Jury Duty"
-categories = ['Blog']
 tags = ['criminal defense']
 
 +++

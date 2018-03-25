@@ -1,6 +1,5 @@
 +++
 date = "2017-08-24"
-categories = ["Blog"]
 tags = ["copyright"]
 title = "The Ninth Circuit's Outdated Approach to Software Copyright Cases"
 +++

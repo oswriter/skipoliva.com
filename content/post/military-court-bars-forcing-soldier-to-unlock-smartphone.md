@@ -2,13 +2,7 @@
 title = "Military Court Bars Forcing Soldier to Unlock Smartphone"
 date = 2017-10-23T15:41:35-04:00
 draft = false
-
 tags = ['criminal defense']
-categories = ['Blog']
-
-[header]
-image = ""
-caption = ""
 
 +++
 
@@ -20,7 +14,7 @@ But do your Fifth Amendment rights extend to information that may be contained o
 
 But at least one court strongly disagrees. This past August, the U.S. Court of Appeals for the Armed Forces ruled that evidence obtained from an Army sergeant's smartphone was inadmissible in his court martial because he asked for an attorney before disclosing his passcode. The sergeant's phone is particularly important to this case, because he's accused of using it as part of a scheme to stalk--and sexually assault--his ex-wife. According to Army prosecutors, the sergeant made "over 250 phone calls and 300 text messages" to her in violation of multiple restraining orders.
 
-The sergeant invoked his right to counsel shortly after military police at Fort Hood took him into custody. Within two hours of the initial detention, a military magistrate issued a search warrant for the sergeant's person and iPhone. The sergeant surrendered his phone but initially refused to provide the passcode. 
+The sergeant invoked his right to counsel shortly after military police at Fort Hood took him into custody. Within two hours of the initial detention, a military magistrate issued a search warrant for the sergeant's person and iPhone. The sergeant surrendered his phone but initially refused to provide the passcode.
 
 A military investigator then told the sergeant, "[I]f you could unlock it, great, if you could help us out." But if he refused, the investigator said a forensic expert would attempt to forcibly unlock the device. At this point the sergeant agreed to unlock his phone.
 
@@ -28,4 +22,4 @@ Under these circumstances, the Court of Appeals said the military investigator v
 
 ## A Future Supreme Court Case?
 
-Obviously, the Court of Appeals for the Armed Forces has no jurisdiction over civilian criminal trials. And as the sole dissenting judge noted in this case, a number of civilian courts have previously held that asking a criminal suspect to unlock a smartphone pursuant to a valid search warrant is not an "incriminating statement" under the Fifth Amendment. But the majority's decision to the contrary signals this is by no means a settled question--and it will likely fall to the U.S. Supreme Court to provide a definitive answer. 
+Obviously, the Court of Appeals for the Armed Forces has no jurisdiction over civilian criminal trials. And as the sole dissenting judge noted in this case, a number of civilian courts have previously held that asking a criminal suspect to unlock a smartphone pursuant to a valid search warrant is not an "incriminating statement" under the Fifth Amendment. But the majority's decision to the contrary signals this is by no means a settled question--and it will likely fall to the U.S. Supreme Court to provide a definitive answer.

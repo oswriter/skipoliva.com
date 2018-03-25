@@ -1,7 +1,6 @@
 +++
 date = "2017-09-21"
 title = "Is a User Interface a Trade Secret?"
-categories = ["Blog"]
 tags = ["trade secrets"]
 +++
 
