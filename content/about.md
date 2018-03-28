@@ -23,3 +23,9 @@ This is where I can help. I've been blogging professionally since 2000--before t
 Every business and blog setup is unique. I have some who prefer to update their blogs 2 or 3 times per week, and others who only do so once or twice a month. The right blogging schedule depends on a number of factors, including the types of services you offer, how much news there is about your subject, and your budget for ghostwriting services.
 
 Whatever your needs, [contact me](/contact/) today so we can work together and develop a custom ghostwriting package for your business. As far as the final content is concerned, you will retain full ownership and copyright over all paid work-for-hire.
+
+### Disclaimer
+
+This website is provided for informational purposes only. The author is not a licensed attorney and neither he nor S.M. Oliva, LLC, offers anything constituting legal advice. Always consult with a licensed attorney before relying on any information you obtain from this or any online source.
+
+
