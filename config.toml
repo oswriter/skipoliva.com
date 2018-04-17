@@ -1,5 +1,5 @@
 baseurl = "https://www.skipoliva.com/"
-title = "S.M. Oliva"
+title = "S.M. Oliva, LLC"
 copyright = "Copyright &copy; 2016-2018 - S.M. Oliva, LLC - [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/)"
 canonifyurls = true
 theme = "kiera"
@@ -20,4 +20,4 @@ pygmentsCodeFences = true
     instagram = ""
 
 [params]
-    tagline = "[Blog Ghostwriting Services](/about/) - [Legal Content](/post/) - [Hire Me Today!](/contact/)"
+    tagline = "Blog Ghostwriting + Legal Content Services"
