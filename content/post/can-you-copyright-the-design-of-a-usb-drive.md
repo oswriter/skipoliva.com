@@ -2,6 +2,7 @@
 date = "2016-09-13"
 title = "Can You Copyright the Design of a USB Drive?"
 tags = ["copyright"]
+authors = ["skipoliva"]
 
 +++
 

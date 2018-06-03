@@ -3,6 +3,7 @@ title = "Can I Sue My Ex-Spouse for Inflicting Severe Emotional Distress?"
 date = 2018-01-01T13:59:37-05:00
 draft = false
 tags = ['divorce','personal injury']
+authors = ["skipoliva"]
 
 +++
 

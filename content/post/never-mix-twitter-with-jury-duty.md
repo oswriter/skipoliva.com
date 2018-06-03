@@ -2,6 +2,7 @@
 date = "2016-10-12"
 title = "Never Mix Twitter With Jury Duty"
 tags = ['criminal defense']
+authors = ["skipoliva"]
 
 +++
 

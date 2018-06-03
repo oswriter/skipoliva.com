@@ -2,6 +2,7 @@
 date = "2016-03-02"
 title = "Is There a Constitutional Right to Audit Source Code?"
 tags = ["criminal defense", "dui"]
+authors = ["skipoliva"]
 
 +++
 
@@ -10,7 +11,7 @@ Many people in the tech community have sounded the red alert klaxon over the FBI
 
 I'm fairly confidant Apple's position would not change. At the end of the day, Apple's prime directive is protecting its proprietary software from outside interference. If that happens to coincide with taking a stance in favor of individual rights, then that's great for marketing, but it's not essential to protecting shareholder interests.
 
-## Justice Scalia and the Confrontation Clause
+## 
 
 I've actually been thinking about this subject since the death of U.S. Supreme Court Justice Antonin Scalia last month. Although the late justice is often characterized as an unfeeling defender of right-wing authoritarianism, Justice Scalia's actual record on criminal defense issues was far more complex. Of special concern to him was the Confrontation Clause of the <a href="https://www.law.cornell.edu/constitution/sixth_amendment">Sixth Amendment</a>, which states that in all criminal trials, the accused has the right “to be confronted with the witnesses against him.”
 

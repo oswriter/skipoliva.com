@@ -3,7 +3,7 @@ title = "Does a Software Vendor's Promise to Provide Upgrades Create a 'Perpetua
 date = 2017-10-01
 draft = false
 tags = ['contract law', 'false advertising']
-
+authors = ["skipoliva"]
 +++
 
 Software runs many of our critical business systems. But what happens when the vendor responsible for the software decides to exit the market? Do customers have any legal recourse if they were led to believe product support would continue indefinitely? A state appeals court in Wisconsin recently addressed these questions, and found the customer's options for relief were limited by its own decision not to purchase extended service contracts.

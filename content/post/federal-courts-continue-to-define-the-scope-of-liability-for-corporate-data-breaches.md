@@ -2,6 +2,7 @@
 date = "2018-05-07"
 title = "Federal Courts Continue to Define the Scope of Liability for Corporate Data Breaches"
 tags = ['data security']
+authors = ["skipoliva"]
 +++
 
 [Lawrence Technology Services]( https://www.lawrencesystems.com/the-kaseya-malware-attack-when-is-a-company-legally-liable-for-a-data-breach/) (LTS) recently published a post I authored on the subject of a company's legal liability for a data security breach. I actually drafted the post a couple months ago, and since that time there has been some new case law addressing this issue. Below is a brief summary of these decisions and how they fit into the larger points raised by the LTS post.

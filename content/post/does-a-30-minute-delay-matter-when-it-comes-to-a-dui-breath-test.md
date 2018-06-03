@@ -3,7 +3,7 @@ title = "Does a 30-Minute Delay Matter When It Comes to a DUI Breath Test?"
 date = 2018-03-23
 draft = false
 tags = ['dui', 'criminal defense']
-
+authors = ["skipoliva"]
 +++
 
 If you drive with a blood-alcohol content (BAC) of 0.08 percent or greater, you can be charged with a DUI under the laws of every state. But what if your BAC may have been higher when you were tested by police than it was when you were actually driving? According to a [recent decision by the Supreme Court of Idaho](https://scholar.google.com/scholar_case?case=3872044573651280452), this may give you grounds for challenging a DUI charge.

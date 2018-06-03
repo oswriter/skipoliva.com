@@ -3,7 +3,7 @@ title = "Military Court Bars Forcing Soldier to Unlock Smartphone"
 date = 2017-10-23T15:41:35-04:00
 draft = false
 tags = ['criminal defense']
-
+authors = ["skipoliva"]
 +++
 
 Anyone who has ever watched *Law & Order* knows that "you have the right to remain silent" when questioned by police. Furthermore, once a criminal suspect invokes his or her right to an attorney, police must immediately cease any further questioning outside the presence of counsel. These rights are protected by the Fifth Amendment to the United States Constitution to ensure that no person "shall be compelled in any criminal case to be a witness against himself."

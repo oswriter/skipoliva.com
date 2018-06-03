@@ -2,6 +2,7 @@
 date = "2017-09-21"
 title = "Is a User Interface a Trade Secret?"
 tags = ["trade secrets"]
+authors = ["skipoliva"]
 +++
 
 While intellectual property such as copyrights and trademarks have relatively well-defined boundaries, there are other intangible property concepts like "trade secrets" that are a bit murkier. Most U.S. states have laws to define and protect trade secrets. But it's not always how broad those definitions are, or how far a business can go in asserting control over certain information.

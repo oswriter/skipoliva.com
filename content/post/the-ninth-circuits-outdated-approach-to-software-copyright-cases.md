@@ -2,6 +2,7 @@
 date = "2017-08-24"
 tags = ["copyright"]
 title = "The Ninth Circuit's Outdated Approach to Software Copyright Cases"
+authors = ["skipoliva"]
 +++
 
 In most civil trials, such as personal injury claims, expert testimony is an invaluable tool used by both sides to help explain complex technical concepts to lay jurors. You would think expert testimony would be especially welcome in cases involving software copyrights, where jurors may be asked to examine and compare source code written in highly specialized programming languages. But at least one federal appeals court has maintained a ban on such testimony for nearly 40 years--and the U.S. Supreme Court has been asked to put an end to this practice.

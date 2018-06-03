@@ -2,6 +2,7 @@
 date = "2016-09-07"
 title = "Do You Own Software You Develop for Work?"
 tags = ["copyright", "employment law"]
+authors = ["skipoliva"]
 
 +++
 
@@ -48,4 +49,4 @@ Judge Haikala's decision does not necessarily signal the end of this litigation.
 
 ### Did You Find This Post Useful?
 
-Would you like content such as this on your own blog or website? [Contact me](https://skipoliva.com/#contact) today to discuss a custom blog ghostwriting package for your law firm or business.
+Would you like content such as this on your own blog or website? [Contact me](https://skipoliva.com/contact) today to discuss a custom blog ghostwriting package for your law firm or business.

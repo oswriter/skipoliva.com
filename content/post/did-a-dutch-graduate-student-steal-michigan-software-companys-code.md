@@ -2,6 +2,7 @@
 date = "2017-09-19"
 title = "Did a Dutch Graduate Student Steal Michigan Software Company's Code?"
 tags = ["copyright"]
+authors = ["skipoliva"]
 +++
 
 Software development largely disregards national borders. Many open source projects have contributors in different countries, even different continents. But when legal disputes arise, borders suddenly matter again, since courts need to establish their jurisdiction over the parties involved.
